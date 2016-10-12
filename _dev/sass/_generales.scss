@@ -1,0 +1,21 @@
+
+// Esta hoja contiene estilos transversales a todas las secciones del sitio
+body {
+  
+}
+
+.mainWrapper{
+    background: url(../img/background.png)  center 10%/cover no-repeat fixed!important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+    width: 100%;
+    height: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.clear {
+	width: 100%;
+	height: 10px;
+}
+

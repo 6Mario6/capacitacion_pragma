@@ -1,0 +1,26 @@
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+li {
+    border-bottom: 1px dashed #90bade;
+    margin: 0;
+}
+.menu {
+    color: #ffffff;
+    max-width: 225px;
+    float: left;
+    width: 20%;
+    height: 86%;
+    background-color: #003576;
+    box-shadow: 2px 1px 5px #827973;
+}
+
+.main {
+    float: left;
+    width: 80%;
+    height: 86%;
+}
